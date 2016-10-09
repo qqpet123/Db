@@ -14,7 +14,7 @@ class PDO
 {
     function connect()
     {
-
+        echo "PDO";
     }
     function query()
     {
